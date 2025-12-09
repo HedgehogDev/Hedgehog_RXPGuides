@@ -1,5 +1,4 @@
-## Interface: 11508
-## Interface-Classic: 11508
+## Interface: 11508, 20505
 
 ## Title: Hedgehog RestedXP Guides
 ## Notes: RestedXP Guides Curated by Hedgehogs
@@ -8,3 +7,12 @@
 ## X-Curse-Project-ID: 1400745
 
 ## Dependencies: RXPGuides
+
+# Guides
+BCC/Introduction.lua
+BCC/Leveling/ReputationFocused/ThroughTheDarkPortal.lua
+BCC/Leveling/ReputationFocused/SSRF 60-62.lua
+BCC/Leveling/ReputationFocused/SSRF 62-68.lua
+BCC/Leveling/ReputationFocused/SSRF 68-70.lua
+BCC/Preparation/Professions.lua
+BCC/Preparation/Dungeons.lua
