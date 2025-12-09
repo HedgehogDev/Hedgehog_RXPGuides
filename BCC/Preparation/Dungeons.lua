@@ -1,7 +1,6 @@
 RXPGuides.RegisterGuide([[
 #classic
 #tbc
-#version 1
 #group Hedgehogs Burning Crusade Classic Series
 #subgroup 2 - Preparation
 #name 2 - Dungeons

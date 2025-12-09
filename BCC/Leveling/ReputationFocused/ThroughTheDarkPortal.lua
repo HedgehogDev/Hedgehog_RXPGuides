@@ -1,7 +1,6 @@
 RXPGuides.RegisterGuide([[
 #classic
 #tbc
-#version 1
 #group Hedgehogs Burning Crusade Classic Series
 #subgroup 3 - Reputation Focused Leveling
 #name 1 - Through the Dark Portal
