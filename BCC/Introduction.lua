@@ -2,7 +2,7 @@ RXPGuides.RegisterGuide([[
 #classic
 #tbc
 #version 1
-#group Snugglysoft's Burning Crusade Classic
+#group Hedgehogs Burning Crusade Classic Series
 #name 1 - Introduction
 
 step
