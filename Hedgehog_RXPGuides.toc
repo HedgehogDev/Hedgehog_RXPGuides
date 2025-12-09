@@ -3,7 +3,7 @@
 ## Title: Hedgehog RestedXP Guides
 ## Notes: RestedXP Guides Curated by Hedgehogs
 ## Author: HedgehogDev
-## Version: 1.0
+## Version: @project-version@
 ## X-Curse-Project-ID: 1400745
 
 ## Dependencies: RXPGuides
